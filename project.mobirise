@@ -3776,7 +3776,7 @@
               "color": "#1634dd",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "72px",
+              "font-size": "60px",
               "text-align": "left"
             },
             ".mbr-section-text": {
@@ -3830,8 +3830,8 @@
               "size": 250
             }
           },
-          "title": "<br><br><br><br><br>RSPNDR",
-          "text": "Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
+          "title": "<br><br><br><span style=\"font-weight: normal;\"><br></span><br>RSPNDR",
+          "text": "Palladium Security is proud to announcr that we are now offering the RSPNDR service to our customers. This service provides the best possible guard response service combined with the best features in monitoring. <br><br>All through Palladium Security Monitoring and Responce&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-teacher mbr-iconfont mbr-iconfont-btn\"></span>Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>How It Works</a>",
           "_tags": [
             "Theme"
