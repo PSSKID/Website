@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 374,
+    "uniqCompNum": 375,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -3781,10 +3781,15 @@
             },
             ".mbr-section-text": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "22px"
             },
             ".btn": {
-              "font-size": "20px"
+              "font-size": "10px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "10px"
             }
           },
           "_params": {
@@ -3793,7 +3798,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "41",
+            "imageSize": "47",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
             "parallax": true,
@@ -3825,8 +3830,8 @@
               "size": 250
             }
           },
-          "title": "<br><br><br>RSPNDR",
-          "text": "<br><br>Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
+          "title": "<br><br><br><br><br>RSPNDR",
+          "text": "Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-teacher mbr-iconfont mbr-iconfont-btn\"></span>Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>How It Works</a>",
           "_tags": [
             "Theme"

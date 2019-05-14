@@ -8,6 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -1788,6 +1789,7 @@ h6,
 }
 
 
+
 #header6-ai .mbr-section-title {
   color: #1634dd;
   font-family: 'Ubuntu', sans-serif;
@@ -1796,10 +1798,14 @@ h6,
 }
 #header6-ai .mbr-section-text {
   color: #ffffff;
-  font-size: 24px;
+  font-size: 22px;
 }
 #header6-ai .btn {
-  font-size: 20px;
+  font-size: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+#header6-ai SPAN {
+  font-size: 10px;
 }
 #header3-ag .mbr-section-title,
 #header3-ag .mbr-section-subtitle {
