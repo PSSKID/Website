@@ -11,7 +11,7 @@
         "successColor": "#f3c649",
         "infoColor": "#be9e1d",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#fd231f",
         "titleFont": "Open Sans",
         "subtitleFont": "Roboto",
         "textFont": "Arimo",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fd231f",
+        "#baaeae",
         "#eaeaea",
         "#0622bf",
         "#0d0c0d",
         "#f1e1e1",
-        "#1634dd",
-        "#be9e1d",
-        "#030203"
+        "#1634dd"
       ]
     },
     "versionFirst": "3.12.1",
@@ -3781,7 +3781,10 @@
             },
             ".mbr-section-text": {
               "color": "#ffffff",
-              "font-size": "22px"
+              "font-size": "24px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3790,9 +3793,9 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "54",
+            "imageSize": "41",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -3801,8 +3804,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#dbc2c2",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#baaeae",
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -3822,9 +3825,9 @@
               "size": 250
             }
           },
-          "title": "RSPNDR",
-          "text": "<br>Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-teacher mbr-iconfont mbr-iconfont-btn\"></span>Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>How It Works</a>",
+          "title": "<br><br><br>RSPNDR",
+          "text": "<br><br>Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-teacher mbr-iconfont mbr-iconfont-btn\"></span>Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>How It Works</a>",
           "_tags": [
             "Theme"
           ],
