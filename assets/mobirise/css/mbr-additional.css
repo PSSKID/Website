@@ -1791,7 +1791,8 @@ h6,
 #header6-ai .mbr-section-title {
   color: #1634dd;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 60px;
+  font-size: 72px;
+  text-align: left;
 }
 #header6-ai .mbr-section-text {
   color: #ffffff;
