@@ -3781,7 +3781,7 @@
             },
             ".mbr-section-text": {
               "color": "#ffffff",
-              "font-size": "22px"
+              "font-size": "20px"
             },
             ".btn": {
               "font-size": "10px",
@@ -3798,9 +3798,9 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "47",
+            "imageSize": "46",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -3830,8 +3830,8 @@
               "size": 250
             }
           },
-          "title": "<br><br><br><span style=\"font-weight: normal;\"><br></span><br>RSPNDR",
-          "text": "Palladium Security is proud to announcr that we are now offering the RSPNDR service to our customers. This service provides the best possible guard response service combined with the best features in monitoring. <br><br>All through Palladium Security Monitoring and Responce&nbsp;<br><br>",
+          "title": "",
+          "text": "<p>Palladium Security is proud to announce that we are now offering the RSPNDR private guard service to our customers. This service provides the best possible guard response service combined with the best features in monitoring. <br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All through Palladium Security Monitoring and Responce&nbsp;<br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-teacher mbr-iconfont mbr-iconfont-btn\"></span>Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>How It Works</a>",
           "_tags": [
             "Theme"
