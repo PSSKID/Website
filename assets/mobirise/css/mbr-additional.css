@@ -1808,6 +1808,9 @@ h6,
 #header3-ai .mbr-section-subtitle {
   text-align: center;
 }
+#content1-aj P {
+  font-size: 20px;
+}
 #menu-ae .hide-buttons .nav-btn {
   display: none !important;
 }
