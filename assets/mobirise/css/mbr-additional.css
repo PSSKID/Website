@@ -1791,9 +1791,9 @@ h6,
 
 
 #header6-ai .mbr-section-title {
-  color: #1634dd;
+  color: #000000;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 60px;
+  font-size: 72px;
   text-align: left;
 }
 #header6-ai .mbr-section-text {
@@ -1806,6 +1806,11 @@ h6,
 }
 #header6-ai SPAN {
   font-size: 10px;
+}
+#header6-ai .mbr-section-text P {
+  font-size: 24px;
+  text-align: left;
+  color: #ffffff;
 }
 #header3-ag .mbr-section-title,
 #header3-ag .mbr-section-subtitle {
