@@ -3773,11 +3773,11 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "72px",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-text": {
               "color": "#ffffff",
@@ -3795,6 +3795,13 @@
               "font-size": "24px",
               "text-align": "left",
               "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "72px",
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "72px"
             }
           },
           "_params": {
@@ -3835,8 +3842,8 @@
               "size": 250
             }
           },
-          "title": "<br>RSPNDR",
-          "text": "<p><span style=\"font-size: 19px;\">Palladium Security is proud to announce that we are now offering the RSPNDR private guard service to our customers. This service provides the best possible guard response service combined with the best features in monitoring.&nbsp;</span></p><p><span style=\"font-size: 19px;\"><br></span><span style=\"font-size: 19px;\">All through Palladium Security Monitoring and Responce&nbsp;</span></p><p><br></p>",
+          "title": "<br><span style=\"font-weight: normal;\">Guard Response\n</span><div><span style=\"font-weight: normal;\">with</span> RSPNDR&nbsp;</div>",
+          "text": "<p><span style=\"font-size: 19px;\">Palladium Security is proud to announce that we are now offering the RSPNDR private guard service to our customers. This service provides the best possible guard response service combined with the best features in monitoring.&nbsp;</span></p><br><p><span style=\"font-size: 19px;\">All through Palladium Security Monitoring and Response&nbsp;</span><br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-teacher mbr-iconfont mbr-iconfont-btn\"></span>Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>How It Works</a>",
           "_tags": [
             "Theme"
@@ -4377,10 +4384,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0d0b0b!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#151212"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
@@ -4557,7 +4564,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/operator-woman-3-600x368.jpg",
+              "src": "@PROJECT_PATH@/assets/images/operator-woman-4-600x368.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6345,10 +6352,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0d0b0b!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#151212"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
@@ -6436,7 +6443,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Response costs can easily be reduced by following a few simple procedures.\n</p><p>\n</p><p>1.\tRegister with your municipal police department. Most police departments have a voluntary registration, this may have an annual fee attached to it but it will offer a lower response fee, some give the first response free.</p><p><br></p><p>\n</p><p>\n</p><p>2.\tLook at a private guard company. Some offer an annual fee or a monthly discounted fee for a predetermined amount of dispatches.&nbsp;</p><p><br></p><p>\n</p><p>3.\tHave our station call the complete call list to authorize the dispatch. Chances are that one of the contacts will be aware of any false alarms due to recent activity at the location and cancel the alarms dispatch.&nbsp;</p><p><br></p><p>\n</p><p>4.\tHave us program a cancel code in the alarm system. This will notify our station that you have disarmed the system and the alarm should not be dispatched. Our station will still contact you to verify the cause of the alarm.&nbsp;<br></p><p>\n</p><p><br></p><p>5.\tCross zone or double hit programing, some alarm systems allow you to use this technology to verify alarms. If two different areas of protection send a signal within a certain time, our station will consider this a true alarm and dispatch. If only one of the two areas trip without the second going into alarm, our station will only use the call list to report the alarm without a dispatch.&nbsp;<br></p><p>\n</p><p><br></p><p>6.\tVideo verification, Palladium can install an web enabled camera in the protected area. In the case of an alarm, our station can remotely look at the live video feed and decide if a response is required.&nbsp;<br></p><p>\n</p><p><br></p><p>7.\tEnsure that an up to date call list is supplied to our monitoring station. Cell phone numbers to authorized people are efficient ways of determining if you would want a dispatch.&nbsp;<br></p><p>\n</p><p><br></p><p>8.\tThe Palladium Interactive Service will allow live emails of all alarms to transmit to your mobile device. This will allow you to be alerted of any alarms and then react before our monitoring station dispatches.</p><p><br></p><p><br></p>",
+          "text": "<p>Response costs can easily be reduced by following a few simple procedures.</p><p><br></p><p>\n</p><p>\n</p><p>1.\tRegister with your municipal police department. Most police departments have a voluntary registration, this may have an annual fee attached to it but it will offer a lower response fee, some give the first response free.</p><p><br></p><p>\n</p><p>\n</p><p>2.\tLook at a private guard company. Some offer an annual fee or a monthly discounted fee for a predetermined amount of dispatches.&nbsp;</p><p><br></p><p>\n</p><p>3.\tHave our station call the complete call list to authorize the dispatch. Chances are that one of the contacts will be aware of any false alarms due to recent activity at the location and cancel the alarms dispatch.&nbsp;</p><p><br></p><p>\n</p><p>4.\tHave us program a cancel code in the alarm system. This will notify our station that you have disarmed the system and the alarm should not be dispatched. Our station will still contact you to verify the cause of the alarm.&nbsp;<br></p><p>\n</p><p><br></p><p>5.\tCross zone or double hit programing, some alarm systems allow you to use this technology to verify alarms. If two different areas of protection send a signal within a certain time, our station will consider this a true alarm and dispatch. If only one of the two areas trip without the second going into alarm, our station will only use the call list to report the alarm without a dispatch.&nbsp;<br></p><p>\n</p><p><br></p><p>6.\tVideo verification, Palladium can install an web enabled camera in the protected area. In the case of an alarm, our station can remotely look at the live video feed and decide if a response is required.&nbsp;<br></p><p>\n</p><p><br></p><p>7.\tEnsure that an up to date call list is supplied to our monitoring station. Cell phone numbers to authorized people are efficient ways of determining if you would want a dispatch.&nbsp;<br></p><p>\n</p><p><br></p><p>8.\tThe Palladium Interactive Service will allow live emails of all alarms to transmit to your mobile device. This will allow you to be alerted of any alarms and then react before our monitoring station dispatches.</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],

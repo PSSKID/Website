@@ -1791,10 +1791,10 @@ h6,
 
 
 #header6-ai .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Ubuntu', sans-serif;
   font-size: 72px;
-  text-align: left;
+  text-align: center;
 }
 #header6-ai .mbr-section-text {
   color: #ffffff;
@@ -1811,6 +1811,13 @@ h6,
   font-size: 24px;
   text-align: left;
   color: #ffffff;
+}
+#header6-ai .mbr-section-title DIV {
+  font-size: 72px;
+  text-align: center;
+}
+#header6-ai .mbr-section-title SPAN {
+  font-size: 72px;
 }
 #header3-ag .mbr-section-title,
 #header3-ag .mbr-section-subtitle {
@@ -1967,13 +1974,13 @@ h6,
 #menu-89 .nav-dropdown-sm .link:hover,
 #menu-89 .nav-dropdown-sm .dropdown-item:focus,
 #menu-89 .nav-dropdown-sm .dropdown-item:hover {
-  background: #0d0b0b!important;
+  background: #000000!important;
 }
 #menu-89 .navbar,
 #menu-89 .nav-dropdown-sm,
 #menu-89 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-89 .nav-dropdown-sm .dropdown-menu {
-  background: #151212;
+  background: #000000;
 }
 #menu-89 .bg-color.transparent .link {
   color: #eaeaea;
@@ -2343,13 +2350,13 @@ h6,
 #menu-22 .nav-dropdown-sm .link:hover,
 #menu-22 .nav-dropdown-sm .dropdown-item:focus,
 #menu-22 .nav-dropdown-sm .dropdown-item:hover {
-  background: #0d0b0b!important;
+  background: #000000!important;
 }
 #menu-22 .navbar,
 #menu-22 .nav-dropdown-sm,
 #menu-22 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-22 .nav-dropdown-sm .dropdown-menu {
-  background: #151212;
+  background: #000000;
 }
 #menu-22 .bg-color.transparent .link {
   color: #eaeaea;
