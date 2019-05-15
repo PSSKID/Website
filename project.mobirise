@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "guard_response.html",
+    "currentPage": "palldiumsecurity.ca.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#151212",
         "#fd231f",
         "#baaeae",
         "#eaeaea",
         "#0622bf",
         "#0d0c0d",
-        "#f1e1e1"
+        "#f1e1e1",
+        "#1634dd"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 375,
+    "uniqCompNum": 374,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -96,13 +96,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1129af"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1531cf!important"
+              "background": "#0d0b0b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#1634dd"
+              "background": "#151212"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
